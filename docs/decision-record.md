@@ -1,7 +1,5 @@
 # ADR-001 — Estrategia de aplicación
 
-> Completa esta decisión en Semana 1. Una decisión no es solo una preferencia: relaciona restricciones, alternativas, consecuencias y una forma de validación.
-
 ## Estado
 
 Propuesta — completar y fechar.
